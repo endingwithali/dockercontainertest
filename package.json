@@ -1,0 +1,18 @@
+{
+  "name": "beanserver",
+  "version": "1.0.0",
+  "description": "BEANS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "node-fetch": "^3.0.0",
+    "unsplash-js": "^7.0.15"
+  }
+}
